@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/calc-heiten-kitaiti/static/css/main.d1b05096.chunk.css",
-    "main.js": "/calc-heiten-kitaiti/static/js/main.b4c61e66.chunk.js",
-    "main.js.map": "/calc-heiten-kitaiti/static/js/main.b4c61e66.chunk.js.map",
+    "main.js": "/calc-heiten-kitaiti/static/js/main.36a6acb2.chunk.js",
+    "main.js.map": "/calc-heiten-kitaiti/static/js/main.36a6acb2.chunk.js.map",
     "runtime-main.js": "/calc-heiten-kitaiti/static/js/runtime-main.71b158fb.js",
     "runtime-main.js.map": "/calc-heiten-kitaiti/static/js/runtime-main.71b158fb.js.map",
     "static/js/2.b037f3ca.chunk.js": "/calc-heiten-kitaiti/static/js/2.b037f3ca.chunk.js",
     "static/js/2.b037f3ca.chunk.js.map": "/calc-heiten-kitaiti/static/js/2.b037f3ca.chunk.js.map",
     "index.html": "/calc-heiten-kitaiti/index.html",
-    "precache-manifest.d7df3736e88ec7162f374ffd4dab4930.js": "/calc-heiten-kitaiti/precache-manifest.d7df3736e88ec7162f374ffd4dab4930.js",
+    "precache-manifest.58b7e874f5e20a870853a248752eef8c.js": "/calc-heiten-kitaiti/precache-manifest.58b7e874f5e20a870853a248752eef8c.js",
     "service-worker.js": "/calc-heiten-kitaiti/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/calc-heiten-kitaiti/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.b037f3ca.chunk.js.LICENSE.txt": "/calc-heiten-kitaiti/static/js/2.b037f3ca.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.71b158fb.js",
     "static/js/2.b037f3ca.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.b4c61e66.chunk.js"
+    "static/js/main.36a6acb2.chunk.js"
   ]
 }

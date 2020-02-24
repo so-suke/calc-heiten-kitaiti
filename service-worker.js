@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/calc-heiten-kitaiti/precache-manifest.d7df3736e88ec7162f374ffd4dab4930.js"
+  "/calc-heiten-kitaiti/precache-manifest.58b7e874f5e20a870853a248752eef8c.js"
 );
 
 self.addEventListener('message', (event) => {
