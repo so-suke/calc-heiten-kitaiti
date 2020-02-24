@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9a5fb28e3eb2fed80b6070474ca600fb",
+    "revision": "7b16d018191f8e3ade2fac3cb6084030",
     "url": "/calc-heiten-kitaiti/index.html"
   },
   {
-    "revision": "dd85d7079705b8280bf4",
+    "revision": "4012a6f3a1cbde1321a7",
     "url": "/calc-heiten-kitaiti/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calc-heiten-kitaiti/static/js/2.b037f3ca.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd85d7079705b8280bf4",
-    "url": "/calc-heiten-kitaiti/static/js/main.36a6acb2.chunk.js"
+    "revision": "4012a6f3a1cbde1321a7",
+    "url": "/calc-heiten-kitaiti/static/js/main.9b27d779.chunk.js"
   },
   {
     "revision": "37239035206946803fdc",
